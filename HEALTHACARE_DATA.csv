@@ -1,0 +1,502 @@
+Patients_ID,Patients_Name,Gender,Age,City_State,Disease,Date,BMI,Blood_Pressure,Blood_Glucose,HbA1c,Heart_Rate,Oxygen_Level,Smooking,Status
+P000001,Krishna Iyer,Male,47,"Pune, Maharashtra",Hypertension,08/01/2024,33.8,160/100,183,10.3,95,68,No,Recovered
+P000002,Kiran Iyer,Female,58,"Lucknow, Uttar Pradesh",Hypertension,17/11/2024,30,160/100,139,8.6,97,95,Yes,Under Treatment
+P000003,Ananya Shah,Male,33,"Ahmedabad, Gujarat",Diabetes,16/01/2024,32.8,130/85,196,5.9,100,81,Yes,Critical
+P000004,Rohan Reddy,Female,64,"Jaipur, Rajasthan",Asthma,24/05/2026,34.3,120/80,167,8.2,92,90,No,Critical
+P000005,Pooja Reddy,Female,72,"Bhopal, Madhya Pradesh",Asthma,28/07/2023,26.3,118/76,159,10,99,69,No,Critical
+P000006,Kiran Gupta,Male,53,"Lucknow, Uttar Pradesh",Diabetes,11/02/2024,21.3,130/85,193,7.5,96,95,No,Under Treatment
+P000007,Priya Singh,Female,34,"Hyderabad, Telangana",Diabetes,10/07/2023,21.7,140/90,177,8.6,100,105,No,Recovered
+P000008,Sneha Kumar,Male,46,"Indore, Madhya Pradesh",Hypertension,04/06/2025,21,150/95,103,9.3,98,90,Yes,Under Treatment
+P000009,Neha Iyer,Female,66,"Indore, Madhya Pradesh",Diabetes,02/06/2026,35.3,140/90,110,8.4,97,63,No,Critical
+P000010,Aisha Shah,Female,63,"Jaipur, Rajasthan",Diabetes,27/07/2024,18.3,140/90,231,6.9,97,62,Yes,Under Treatment
+P000011,Aarav Kumar,Female,60,"Lucknow, Uttar Pradesh",Asthma,23/06/2023,32.1,118/76,115,6.3,93,72,No,Under Treatment
+P000012,Vikram Patel,Female,45,"Jaipur, Rajasthan",Asthma,26/06/2024,25.2,120/80,110,6.4,95,108,No,Under Treatment
+P000013,Priya Reddy,Male,37,"Chennai, Tamil Nadu",Hypertension,03/05/2026,28.5,150/95,125,8.6,96,95,Yes,Critical
+P000014,Rahul Gupta,Female,78,"Jaipur, Rajasthan",Asthma,14/02/2024,32.2,120/80,151,5.5,98,85,No,Critical
+P000015,Ananya Kumar,Female,41,"Pune, Maharashtra",Hypertension,24/02/2026,19.2,150/95,248,7.3,97,98,Yes,Under Treatment
+P000016,Vikram Patel,Male,52,"Bengaluru, Karnataka",Asthma,21/06/2023,33.8,120/80,245,6.1,95,62,No,Critical
+P000017,Priya Kumar,Male,41,"Lucknow, Uttar Pradesh",Asthma,18/07/2024,18.6,120/80,152,5.1,95,107,No,Critical
+P000018,Pooja Kumar,Female,38,"Kolkata, West Bengal",Asthma,20/08/2025,32.7,118/76,202,9,97,65,No,Critical
+P000019,Kiran Patel,Male,44,"Kolkata, West Bengal",Hypertension,30/09/2024,29.8,150/95,244,5.4,96,60,No,Under Treatment
+P000020,Meera Kumar,Male,46,"Kolkata, West Bengal",Asthma,03/05/2024,27.2,120/80,101,7.7,91,107,Yes,Recovered
+P000021,Priya Gupta,Female,23,"Ahmedabad, Gujarat",Hypertension,15/10/2024,34.2,160/100,188,6.9,100,87,No,Critical
+P000022,Meera Kumar,Female,34,"Kolkata, West Bengal",Diabetes,04/02/2024,21.4,140/90,156,9.8,96,107,No,Recovered
+P000023,Meera Shah,Male,26,"Chennai, Tamil Nadu",Asthma,05/10/2023,28.2,120/80,204,5.8,95,64,No,Recovered
+P000024,Neha Iyer,Male,63,"Hyderabad, Telangana",Hypertension,21/02/2025,32,160/100,237,6.5,100,73,No,Recovered
+P000025,Meera Patel,Female,58,"Hyderabad, Telangana",Diabetes,08/04/2024,23,130/85,170,5.6,98,105,Yes,Critical
+P000026,Krishna Sharma,Male,32,"Pune, Maharashtra",Diabetes,18/10/2025,22.9,140/90,216,7.1,97,94,Yes,Critical
+P000027,Ananya Singh,Female,32,"Hyderabad, Telangana",Hypertension,23/06/2024,28.6,160/100,222,8.1,97,74,Yes,Critical
+P000028,Krishna Shah,Male,21,"Indore, Madhya Pradesh",Diabetes,06/10/2025,25.5,140/90,177,7.2,98,110,Yes,Under Treatment
+P000029,Ananya Kumar,Female,21,"Indore, Madhya Pradesh",Diabetes,16/12/2024,35.5,140/90,240,10.1,100,86,No,Under Treatment
+P000030,Aarav Sharma,Female,33,"Pune, Maharashtra",Asthma,29/06/2026,20.4,118/76,152,5.2,92,86,Yes,Under Treatment
+P000031,Pooja Iyer,Female,31,"Hyderabad, Telangana",Hypertension,06/12/2024,20.8,150/95,125,5.5,98,105,No,Under Treatment
+P000032,Rohan Gupta,Male,45,"Indore, Madhya Pradesh",Hypertension,21/04/2024,30,150/95,125,7.1,95,83,No,Under Treatment
+P000033,Rohan Sharma,Female,30,"Bengaluru, Karnataka",Asthma,01/06/2023,34,120/80,141,7.6,90,81,No,Under Treatment
+P000034,Aditya Reddy,Female,55,"Mumbai, Maharashtra",Hypertension,24/03/2024,31.2,160/100,237,5.1,100,98,No,Under Treatment
+P000035,Aditya Singh,Female,21,"Bengaluru, Karnataka",Hypertension,22/06/2025,32.2,150/95,220,5.1,100,80,No,Recovered
+P000036,Rahul Sharma,Male,19,"Jaipur, Rajasthan",Diabetes,20/10/2023,25.5,140/90,205,6.6,95,67,Yes,Recovered
+P000037,Sneha Gupta,Male,78,"Bhopal, Madhya Pradesh",Asthma,09/02/2025,30.4,120/80,134,10.4,92,81,No,Recovered
+P000038,Pooja Iyer,Female,45,"Bengaluru, Karnataka",Hypertension,12/03/2024,27.5,150/95,211,5.4,95,104,No,Recovered
+P000039,Aditya Sharma,Female,71,"Chennai, Tamil Nadu",Diabetes,28/05/2023,25.8,130/85,175,6.2,97,71,Yes,Critical
+P000040,Rahul Kumar,Female,48,"Hyderabad, Telangana",Hypertension,28/01/2025,29,160/100,184,6.1,95,69,No,Critical
+P000041,Rohan Gupta,Female,82,"Indore, Madhya Pradesh",Asthma,23/10/2025,27.2,118/76,165,5.6,96,94,No,Under Treatment
+P000042,Vivaan Singh,Female,39,"Ahmedabad, Gujarat",Asthma,05/02/2025,21.7,118/76,160,9.6,94,72,No,Critical
+P000043,Kiran Patel,Male,62,"Surat, Gujarat",Asthma,07/08/2023,34.9,120/80,190,6,94,73,Yes,Critical
+P000044,Neha Singh,Male,62,"Jaipur, Rajasthan",Asthma,26/03/2024,22.8,118/76,107,7,90,92,Yes,Under Treatment
+P000045,Ananya Gupta,Female,57,"Bengaluru, Karnataka",Asthma,08/01/2026,19.9,120/80,175,5.4,92,100,Yes,Recovered
+P000046,Priya Patel,Male,53,"Ahmedabad, Gujarat",Hypertension,29/11/2025,28.7,150/95,213,6.5,95,80,No,Critical
+P000047,Aditya Shah,Female,71,"Hyderabad, Telangana",Diabetes,19/12/2025,19.9,140/90,163,5.1,95,62,Yes,Under Treatment
+P000048,Aditya Reddy,Male,35,"Bhopal, Madhya Pradesh",Hypertension,14/09/2023,35.3,160/100,245,8.2,99,93,No,Under Treatment
+P000049,Rohan Patel,Female,42,"Hyderabad, Telangana",Hypertension,04/10/2024,32.4,150/95,214,6.8,97,75,No,Critical
+P000050,Sneha Singh,Male,32,"Jaipur, Rajasthan",Asthma,29/01/2023,19.3,120/80,95,9.7,95,82,No,Recovered
+P000051,Vikram Patel,Male,52,"Surat, Gujarat",Asthma,20/07/2024,18.1,118/76,201,8.4,95,77,No,Recovered
+P000052,Pooja Reddy,Female,53,"Pune, Maharashtra",Hypertension,20/09/2025,28.7,160/100,136,7.9,100,69,Yes,Recovered
+P000053,Aarav Singh,Female,61,"Bengaluru, Karnataka",Diabetes,26/11/2023,24.6,140/90,153,8.6,97,64,Yes,Critical
+P000054,Aisha Iyer,Male,30,"Pune, Maharashtra",Hypertension,14/01/2026,28.4,160/100,155,6,95,61,No,Recovered
+P000055,Meera Shah,Male,55,"Indore, Madhya Pradesh",Hypertension,11/01/2024,25.8,150/95,202,8.3,99,85,Yes,Under Treatment
+P000056,Aarav Sharma,Female,39,"Bengaluru, Karnataka",Asthma,11/08/2024,34.8,120/80,163,7.2,98,96,Yes,Under Treatment
+P000057,Ananya Kumar,Female,49,"Chennai, Tamil Nadu",Hypertension,10/01/2023,35.4,160/100,122,7,99,74,Yes,Critical
+P000058,Sneha Gupta,Female,31,"Ahmedabad, Gujarat",Diabetes,12/12/2024,22.8,130/85,249,8.9,95,82,Yes,Recovered
+P000059,Krishna Patel,Male,80,"Chennai, Tamil Nadu",Hypertension,28/02/2025,30.9,160/100,233,6.8,95,88,Yes,Under Treatment
+P000060,Rahul Singh,Female,45,"Ahmedabad, Gujarat",Hypertension,05/04/2023,33.4,150/95,181,6.9,98,75,Yes,Critical
+P000061,Kiran Singh,Female,58,"Bengaluru, Karnataka",Asthma,14/10/2023,20.3,120/80,170,9.4,90,106,Yes,Under Treatment
+P000062,Pooja Reddy,Male,68,"Kolkata, West Bengal",Asthma,17/09/2024,26.3,120/80,226,7.5,97,74,Yes,Under Treatment
+P000063,Aditya Gupta,Female,23,"Mumbai, Maharashtra",Hypertension,20/05/2024,34.1,160/100,124,8.2,99,66,Yes,Critical
+P000064,Vikram Reddy,Male,38,"Surat, Gujarat",Asthma,11/10/2023,28.4,118/76,121,9.9,97,101,Yes,Under Treatment
+P000065,Krishna Gupta,Female,65,"Hyderabad, Telangana",Hypertension,05/10/2023,29.6,160/100,154,8.6,95,103,Yes,Recovered
+P000066,Neha Gupta,Female,42,"Mumbai, Maharashtra",Asthma,11/09/2025,33.7,118/76,168,5.1,96,72,Yes,Critical
+P000067,Vivaan Kumar,Female,59,"Bengaluru, Karnataka",Diabetes,28/02/2025,25.2,130/85,196,10,95,103,Yes,Critical
+P000068,Aarav Singh,Female,43,"Jaipur, Rajasthan",Diabetes,15/10/2023,28.5,140/90,212,8.7,96,61,Yes,Critical
+P000069,Meera Iyer,Male,59,"Mumbai, Maharashtra",Asthma,15/08/2024,31.1,118/76,223,9,94,100,Yes,Recovered
+P000070,Aisha Singh,Male,53,"Jaipur, Rajasthan",Diabetes,26/04/2025,29.1,130/85,237,7.1,95,89,No,Critical
+P000071,Meera Gupta,Female,61,"Bengaluru, Karnataka",Diabetes,03/11/2024,19.9,130/85,125,5.1,98,62,Yes,Critical
+P000072,Kiran Kumar,Female,78,"Hyderabad, Telangana",Asthma,20/12/2023,34.3,118/76,178,7.2,99,75,No,Critical
+P000073,Pooja Singh,Female,18,"Hyderabad, Telangana",Diabetes,06/12/2024,24.4,130/85,134,6.5,97,84,Yes,Recovered
+P000074,Sneha Patel,Male,82,"Hyderabad, Telangana",Diabetes,11/05/2026,21.9,140/90,130,7.4,95,84,No,Recovered
+P000075,Krishna Singh,Male,85,"Jaipur, Rajasthan",Diabetes,15/11/2023,22.9,130/85,135,7.9,95,89,Yes,Under Treatment
+P000076,Aisha Gupta,Female,27,"Hyderabad, Telangana",Diabetes,08/01/2023,21.2,140/90,223,9.6,96,81,No,Critical
+P000077,Vivaan Singh,Male,46,"Pune, Maharashtra",Hypertension,30/09/2024,22.4,150/95,132,8.6,97,110,No,Recovered
+P000078,Aisha Iyer,Female,84,"Bengaluru, Karnataka",Hypertension,11/11/2024,29.6,160/100,240,9.6,96,70,No,Under Treatment
+P000079,Priya Shah,Male,73,"Bhopal, Madhya Pradesh",Diabetes,07/02/2025,27.4,130/85,138,6.5,100,61,Yes,Critical
+P000080,Neha Singh,Male,29,"Hyderabad, Telangana",Diabetes,06/05/2025,28.2,130/85,187,9.8,99,79,No,Recovered
+P000081,Rahul Patel,Female,34,"Ahmedabad, Gujarat",Asthma,24/02/2025,22.9,120/80,176,7.1,91,66,No,Under Treatment
+P000082,Aditya Singh,Female,76,"Bengaluru, Karnataka",Asthma,24/08/2025,32.9,120/80,247,6.5,93,88,No,Critical
+P000083,Neha Shah,Male,59,"Pune, Maharashtra",Hypertension,19/05/2025,22.4,150/95,189,9.6,97,69,No,Recovered
+P000084,Vivaan Gupta,Male,69,"Kolkata, West Bengal",Diabetes,21/10/2024,24,130/85,81,10.1,95,92,Yes,Recovered
+P000085,Pooja Kumar,Female,42,"Jaipur, Rajasthan",Asthma,08/01/2025,28.7,120/80,129,9.5,96,80,Yes,Critical
+P000086,Rahul Reddy,Male,25,"Kolkata, West Bengal",Diabetes,01/08/2023,20.9,130/85,157,5.6,100,64,No,Recovered
+P000087,Meera Reddy,Female,49,"Pune, Maharashtra",Hypertension,06/04/2025,35.7,160/100,151,7,96,107,No,Critical
+P000088,Meera Shah,Male,49,"Bhopal, Madhya Pradesh",Hypertension,04/08/2023,21.5,160/100,139,6.4,96,78,Yes,Under Treatment
+P000089,Neha Singh,Male,63,"Mumbai, Maharashtra",Diabetes,05/09/2023,20.4,130/85,250,5.3,100,98,Yes,Under Treatment
+P000090,Kiran Singh,Female,20,"Jaipur, Rajasthan",Hypertension,13/03/2024,30.5,150/95,83,5.8,95,66,Yes,Under Treatment
+P000091,Rahul Sharma,Male,43,"Mumbai, Maharashtra",Asthma,22/08/2025,28.3,120/80,129,9.6,91,91,Yes,Recovered
+P000092,Priya Shah,Female,35,"Bhopal, Madhya Pradesh",Diabetes,29/10/2025,33,140/90,168,6.3,99,72,No,Under Treatment
+P000093,Rohan Iyer,Female,30,"Bhopal, Madhya Pradesh",Asthma,27/07/2023,33.9,120/80,171,6.3,92,69,Yes,Recovered
+P000094,Neha Kumar,Male,83,"Pune, Maharashtra",Asthma,29/07/2024,25,118/76,86,7,98,74,Yes,Under Treatment
+P000095,Aditya Patel,Female,80,"Bhopal, Madhya Pradesh",Hypertension,06/07/2023,19,160/100,198,9.9,96,91,No,Under Treatment
+P000096,Neha Patel,Male,69,"Bengaluru, Karnataka",Hypertension,01/04/2025,28.7,160/100,194,5.5,100,68,No,Under Treatment
+P000097,Rahul Iyer,Male,75,"Kolkata, West Bengal",Asthma,16/03/2024,35.2,118/76,245,7.2,100,60,Yes,Critical
+P000098,Pooja Sharma,Male,58,"Hyderabad, Telangana",Asthma,12/08/2025,19.5,120/80,200,10.2,99,72,No,Under Treatment
+P000099,Priya Sharma,Male,85,"Kolkata, West Bengal",Hypertension,03/04/2025,23.9,150/95,172,8.3,96,73,No,Critical
+P000100,Ananya Sharma,Male,65,"Surat, Gujarat",Diabetes,01/01/2026,23.8,130/85,244,6.2,96,62,No,Recovered
+P000101,Priya Reddy,Female,23,"Lucknow, Uttar Pradesh",Asthma,15/03/2024,30.2,118/76,121,8.1,96,92,No,Critical
+P000102,Ananya Kumar,Male,72,"Lucknow, Uttar Pradesh",Asthma,11/12/2023,30.4,118/76,136,7,92,97,No,Under Treatment
+P000103,Vivaan Sharma,Female,83,"Ahmedabad, Gujarat",Asthma,19/02/2023,23.5,120/80,172,9.7,95,60,Yes,Critical
+P000104,Meera Kumar,Female,57,"Bengaluru, Karnataka",Hypertension,26/02/2025,24.2,150/95,209,6.9,96,69,Yes,Under Treatment
+P000105,Rahul Gupta,Male,56,"Indore, Madhya Pradesh",Diabetes,14/09/2024,29.4,140/90,203,10.4,100,96,Yes,Under Treatment
+P000106,Neha Reddy,Female,60,"Indore, Madhya Pradesh",Diabetes,19/01/2026,18.8,130/85,137,8.2,96,62,No,Critical
+P000107,Aisha Shah,Female,20,"Kolkata, West Bengal",Diabetes,19/05/2026,22.3,140/90,124,7.8,95,83,No,Recovered
+P000108,Aarav Patel,Male,48,"Indore, Madhya Pradesh",Hypertension,29/08/2023,19.3,150/95,103,6,98,86,No,Under Treatment
+P000109,Neha Patel,Male,63,"Mumbai, Maharashtra",Hypertension,19/04/2024,32.6,150/95,151,9.6,95,108,No,Critical
+P000110,Aisha Gupta,Female,62,"Hyderabad, Telangana",Diabetes,04/05/2025,35.7,140/90,180,5,98,79,Yes,Recovered
+P000111,Neha Kumar,Male,26,"Jaipur, Rajasthan",Diabetes,08/10/2023,30.5,140/90,112,7.3,98,95,No,Recovered
+P000112,Vivaan Patel,Female,29,"Pune, Maharashtra",Asthma,15/05/2023,34.8,118/76,206,8.9,93,108,Yes,Under Treatment
+P000113,Priya Gupta,Female,42,"Indore, Madhya Pradesh",Diabetes,05/07/2025,30.1,140/90,201,6.3,95,94,Yes,Recovered
+P000114,Pooja Reddy,Female,27,"Mumbai, Maharashtra",Asthma,03/06/2026,25.7,120/80,248,5,97,107,Yes,Critical
+P000115,Vikram Gupta,Female,54,"Surat, Gujarat",Asthma,11/02/2025,32.2,118/76,171,6.2,96,76,Yes,Under Treatment
+P000116,Kiran Kumar,Male,29,"Jaipur, Rajasthan",Diabetes,24/10/2024,28.5,130/85,83,7.6,100,85,Yes,Recovered
+P000117,Vikram Iyer,Female,85,"Indore, Madhya Pradesh",Asthma,03/02/2025,30.1,118/76,190,9.6,92,89,Yes,Recovered
+P000118,Meera Kumar,Male,23,"Jaipur, Rajasthan",Diabetes,15/05/2023,29.8,130/85,238,6.6,100,103,Yes,Under Treatment
+P000119,Krishna Reddy,Female,37,"Surat, Gujarat",Hypertension,26/03/2023,25.9,150/95,245,7.6,95,80,Yes,Critical
+P000120,Kiran Gupta,Female,26,"Bengaluru, Karnataka",Asthma,17/02/2024,23.1,120/80,136,5.5,96,83,No,Recovered
+P000121,Meera Patel,Male,69,"Bhopal, Madhya Pradesh",Diabetes,21/08/2025,21.5,130/85,166,8.8,97,93,Yes,Recovered
+P000122,Kiran Reddy,Female,79,"Chennai, Tamil Nadu",Asthma,30/04/2026,22,120/80,114,8.5,97,84,Yes,Under Treatment
+P000123,Pooja Singh,Female,26,"Surat, Gujarat",Hypertension,10/05/2026,18.4,150/95,247,7.2,97,72,Yes,Critical
+P000124,Pooja Patel,Female,51,"Ahmedabad, Gujarat",Hypertension,16/08/2023,25.2,150/95,246,6.2,98,76,Yes,Recovered
+P000125,Vivaan Kumar,Female,62,"Surat, Gujarat",Hypertension,16/06/2024,22.8,160/100,135,10.4,96,83,No,Recovered
+P000126,Pooja Singh,Male,24,"Indore, Madhya Pradesh",Asthma,23/11/2024,19.9,118/76,229,10.4,98,73,Yes,Recovered
+P000127,Aditya Patel,Male,21,"Pune, Maharashtra",Hypertension,02/10/2024,29.5,150/95,101,9.4,99,70,Yes,Under Treatment
+P000128,Aisha Iyer,Male,68,"Hyderabad, Telangana",Hypertension,23/12/2024,25,160/100,89,5.8,96,63,Yes,Under Treatment
+P000129,Neha Iyer,Male,81,"Pune, Maharashtra",Hypertension,11/08/2024,20.3,160/100,191,6.8,99,90,No,Under Treatment
+P000130,Vikram Singh,Female,29,"Bengaluru, Karnataka",Asthma,01/11/2023,20.1,118/76,85,6.6,92,102,No,Under Treatment
+P000131,Rahul Iyer,Male,20,"Hyderabad, Telangana",Hypertension,13/07/2024,20.3,160/100,135,10.5,95,79,Yes,Recovered
+P000132,Meera Reddy,Female,41,"Ahmedabad, Gujarat",Asthma,11/03/2025,21.2,118/76,243,7.3,98,109,No,Under Treatment
+P000133,Vikram Iyer,Male,72,"Mumbai, Maharashtra",Diabetes,26/11/2025,20.5,130/85,188,6,99,67,No,Critical
+P000134,Meera Kumar,Male,32,"Kolkata, West Bengal",Diabetes,02/03/2023,33.9,130/85,230,9.6,97,61,Yes,Under Treatment
+P000135,Meera Shah,Female,32,"Indore, Madhya Pradesh",Diabetes,08/03/2024,25.3,140/90,130,5,97,78,Yes,Critical
+P000136,Kiran Kumar,Female,74,"Hyderabad, Telangana",Asthma,17/04/2026,19.9,118/76,209,9.4,91,88,Yes,Critical
+P000137,Krishna Kumar,Female,62,"Indore, Madhya Pradesh",Diabetes,02/05/2025,27.4,130/85,105,8.6,98,85,No,Critical
+P000138,Meera Patel,Female,64,"Pune, Maharashtra",Hypertension,07/07/2023,30,160/100,171,7.2,96,92,No,Critical
+P000139,Rahul Sharma,Female,58,"Chennai, Tamil Nadu",Hypertension,25/02/2026,26.6,150/95,146,7.9,97,85,No,Critical
+P000140,Vivaan Gupta,Female,26,"Indore, Madhya Pradesh",Asthma,21/04/2025,33.7,120/80,86,6.8,91,78,No,Recovered
+P000141,Neha Gupta,Female,58,"Surat, Gujarat",Asthma,20/11/2023,29,120/80,90,6.6,97,64,No,Under Treatment
+P000142,Vikram Gupta,Female,77,"Hyderabad, Telangana",Diabetes,23/02/2023,20.1,140/90,91,9.4,99,79,Yes,Critical
+P000143,Meera Gupta,Male,49,"Ahmedabad, Gujarat",Hypertension,25/01/2023,29.4,160/100,202,9.5,99,76,Yes,Recovered
+P000144,Neha Kumar,Female,69,"Bengaluru, Karnataka",Asthma,05/01/2026,33.1,118/76,101,9.7,91,97,No,Critical
+P000145,Neha Reddy,Female,76,"Bhopal, Madhya Pradesh",Diabetes,13/01/2023,22.1,130/85,140,7.8,96,110,Yes,Critical
+P000146,Krishna Iyer,Female,39,"Mumbai, Maharashtra",Asthma,28/10/2025,20.6,118/76,164,7.7,91,63,Yes,Critical
+P000147,Aisha Gupta,Male,46,"Surat, Gujarat",Asthma,19/06/2024,31.2,120/80,194,6.4,98,66,Yes,Critical
+P000148,Aisha Shah,Female,36,"Bengaluru, Karnataka",Asthma,24/04/2023,25.6,118/76,161,8.9,96,99,Yes,Critical
+P000149,Ananya Shah,Male,46,"Bhopal, Madhya Pradesh",Diabetes,30/12/2025,25.9,130/85,186,8,97,88,No,Under Treatment
+P000150,Kiran Gupta,Male,28,"Bengaluru, Karnataka",Diabetes,16/11/2023,28.3,140/90,152,8.3,96,77,Yes,Recovered
+P000151,Neha Gupta,Female,50,"Lucknow, Uttar Pradesh",Diabetes,28/06/2023,27.7,130/85,196,7.9,96,96,Yes,Under Treatment
+P000152,Aarav Shah,Female,26,"Bengaluru, Karnataka",Diabetes,01/04/2024,19.8,130/85,230,9.5,98,65,Yes,Under Treatment
+P000153,Neha Iyer,Female,23,"Kolkata, West Bengal",Asthma,17/04/2025,35.2,118/76,123,8.8,99,72,Yes,Recovered
+P000154,Meera Iyer,Male,77,"Ahmedabad, Gujarat",Hypertension,02/11/2025,22.1,160/100,174,9.6,97,88,No,Under Treatment
+P000155,Aarav Sharma,Female,31,"Bhopal, Madhya Pradesh",Diabetes,07/06/2025,30,140/90,80,8,95,89,No,Recovered
+P000156,Neha Sharma,Female,84,"Surat, Gujarat",Diabetes,04/07/2024,33.5,140/90,102,8,95,74,Yes,Recovered
+P000157,Priya Singh,Male,28,"Indore, Madhya Pradesh",Asthma,18/03/2026,30.4,118/76,223,8.6,93,73,Yes,Critical
+P000158,Sneha Kumar,Male,81,"Jaipur, Rajasthan",Hypertension,25/11/2024,34.1,160/100,185,7.9,95,65,No,Critical
+P000159,Meera Shah,Male,41,"Mumbai, Maharashtra",Hypertension,19/06/2026,23.7,150/95,224,8,100,79,No,Under Treatment
+P000160,Ananya Singh,Female,67,"Bhopal, Madhya Pradesh",Hypertension,27/05/2025,18.1,160/100,179,8.9,96,80,No,Critical
+P000161,Vivaan Shah,Female,23,"Lucknow, Uttar Pradesh",Asthma,23/08/2024,32.4,120/80,99,7.7,100,101,Yes,Recovered
+P000162,Sneha Gupta,Male,68,"Lucknow, Uttar Pradesh",Diabetes,04/10/2025,22.1,130/85,112,8.5,95,101,No,Recovered
+P000163,Rahul Iyer,Male,24,"Hyderabad, Telangana",Diabetes,15/08/2025,29.9,140/90,219,5.5,98,83,Yes,Recovered
+P000164,Aisha Shah,Female,70,"Chennai, Tamil Nadu",Diabetes,06/05/2024,26.2,130/85,173,9.6,97,64,No,Under Treatment
+P000165,Aisha Gupta,Male,78,"Bengaluru, Karnataka",Diabetes,31/03/2025,24.4,130/85,204,8.5,97,75,No,Recovered
+P000166,Aisha Singh,Male,64,"Jaipur, Rajasthan",Diabetes,06/03/2025,25.8,130/85,188,9.5,95,86,No,Critical
+P000167,Krishna Sharma,Female,53,"Mumbai, Maharashtra",Asthma,19/12/2023,29.7,118/76,208,10.4,91,81,No,Under Treatment
+P000168,Kiran Gupta,Male,78,"Kolkata, West Bengal",Diabetes,20/08/2024,18.9,130/85,139,6.6,99,69,Yes,Critical
+P000169,Neha Iyer,Male,36,"Hyderabad, Telangana",Asthma,21/11/2024,32.2,120/80,153,10.1,95,75,Yes,Recovered
+P000170,Pooja Shah,Male,49,"Lucknow, Uttar Pradesh",Diabetes,17/08/2023,33.4,130/85,231,8.6,100,108,No,Recovered
+P000171,Aditya Gupta,Male,56,"Chennai, Tamil Nadu",Hypertension,18/04/2025,22.2,160/100,236,5.5,97,75,Yes,Under Treatment
+P000172,Aarav Iyer,Male,58,"Ahmedabad, Gujarat",Asthma,19/12/2023,23.4,118/76,150,5.7,96,68,Yes,Recovered
+P000173,Vivaan Singh,Male,44,"Pune, Maharashtra",Asthma,16/06/2026,32.8,118/76,168,7.8,95,68,Yes,Under Treatment
+P000174,Meera Reddy,Female,33,"Pune, Maharashtra",Hypertension,26/05/2023,22.7,160/100,123,8.4,98,85,Yes,Recovered
+P000175,Vivaan Iyer,Female,56,"Surat, Gujarat",Hypertension,18/07/2023,26.8,160/100,153,7.5,100,83,Yes,Critical
+P000176,Pooja Patel,Male,20,"Ahmedabad, Gujarat",Asthma,03/01/2024,20.2,118/76,150,6.6,94,89,No,Critical
+P000177,Priya Patel,Female,72,"Ahmedabad, Gujarat",Hypertension,17/09/2024,19.6,160/100,92,9.6,95,73,Yes,Critical
+P000178,Rohan Shah,Female,42,"Kolkata, West Bengal",Asthma,30/12/2024,22.2,120/80,247,8.8,93,92,Yes,Recovered
+P000179,Ananya Shah,Female,63,"Pune, Maharashtra",Asthma,01/01/2025,34.7,118/76,243,9.8,92,91,No,Recovered
+P000180,Vikram Iyer,Male,68,"Kolkata, West Bengal",Hypertension,20/03/2026,25.3,150/95,189,9.3,95,101,No,Critical
+P000181,Pooja Sharma,Female,73,"Bhopal, Madhya Pradesh",Diabetes,19/04/2023,21,140/90,186,8.7,95,104,Yes,Under Treatment
+P000182,Aditya Kumar,Female,51,"Pune, Maharashtra",Asthma,15/05/2023,35.3,120/80,108,8.7,95,71,Yes,Critical
+P000183,Kiran Shah,Female,42,"Lucknow, Uttar Pradesh",Asthma,25/11/2023,35.7,118/76,192,8.7,97,75,Yes,Critical
+P000184,Rahul Patel,Male,19,"Hyderabad, Telangana",Hypertension,25/09/2024,19.4,160/100,170,9.6,98,75,No,Under Treatment
+P000185,Neha Iyer,Male,62,"Pune, Maharashtra",Diabetes,24/04/2024,19.5,130/85,166,8.7,100,63,No,Under Treatment
+P000186,Aarav Patel,Female,40,"Kolkata, West Bengal",Diabetes,17/11/2025,28.6,130/85,194,7.1,97,95,Yes,Critical
+P000187,Vivaan Patel,Male,57,"Indore, Madhya Pradesh",Hypertension,24/04/2026,32.6,160/100,169,6.1,96,97,No,Under Treatment
+P000188,Meera Gupta,Male,71,"Hyderabad, Telangana",Asthma,20/04/2023,19.6,120/80,89,7.8,100,107,Yes,Recovered
+P000189,Kiran Iyer,Female,30,"Bhopal, Madhya Pradesh",Hypertension,07/01/2026,18.8,150/95,171,7.3,100,60,No,Under Treatment
+P000190,Vivaan Gupta,Male,60,"Kolkata, West Bengal",Asthma,02/03/2025,21.8,118/76,99,8.8,90,88,Yes,Under Treatment
+P000191,Krishna Sharma,Female,25,"Pune, Maharashtra",Asthma,27/01/2024,24.8,118/76,196,7.1,96,103,No,Critical
+P000192,Vikram Kumar,Female,19,"Kolkata, West Bengal",Asthma,17/05/2025,18.7,118/76,147,6.7,92,110,No,Recovered
+P000193,Meera Gupta,Male,85,"Ahmedabad, Gujarat",Hypertension,20/03/2024,34.5,160/100,91,6.1,96,80,No,Recovered
+P000194,Pooja Shah,Female,64,"Mumbai, Maharashtra",Diabetes,13/11/2023,32.6,130/85,172,10.3,100,86,Yes,Recovered
+P000195,Sneha Reddy,Female,55,"Mumbai, Maharashtra",Diabetes,07/06/2026,32.8,130/85,148,9.8,100,90,Yes,Under Treatment
+P000196,Priya Iyer,Male,65,"Pune, Maharashtra",Diabetes,08/10/2025,27.5,130/85,173,7.1,98,60,Yes,Critical
+P000197,Priya Sharma,Male,68,"Mumbai, Maharashtra",Diabetes,16/03/2025,29.3,140/90,125,7.3,100,106,Yes,Recovered
+P000198,Vikram Iyer,Female,54,"Mumbai, Maharashtra",Diabetes,25/10/2025,35.9,140/90,86,7.4,100,65,No,Critical
+P000199,Kiran Shah,Male,31,"Surat, Gujarat",Diabetes,24/07/2023,20.6,130/85,158,5.1,97,80,Yes,Critical
+P000200,Vivaan Singh,Male,23,"Surat, Gujarat",Hypertension,12/08/2023,21.1,160/100,178,5.6,99,84,No,Under Treatment
+P000201,Sneha Shah,Male,80,"Ahmedabad, Gujarat",Asthma,22/03/2024,29.1,120/80,245,8.2,97,67,Yes,Critical
+P000202,Rahul Reddy,Male,25,"Indore, Madhya Pradesh",Asthma,15/05/2026,22.2,118/76,227,9.5,90,77,Yes,Under Treatment
+P000203,Vikram Shah,Female,65,"Bengaluru, Karnataka",Asthma,07/11/2024,34.3,118/76,204,5.1,95,101,Yes,Critical
+P000204,Krishna Singh,Male,33,"Surat, Gujarat",Diabetes,15/07/2023,33.8,140/90,162,9,99,91,No,Critical
+P000205,Pooja Patel,Male,22,"Pune, Maharashtra",Diabetes,02/02/2023,22.5,140/90,115,5.3,99,76,No,Under Treatment
+P000206,Vikram Kumar,Female,48,"Surat, Gujarat",Hypertension,04/03/2025,26.1,150/95,214,5.6,97,67,No,Recovered
+P000207,Krishna Iyer,Female,58,"Mumbai, Maharashtra",Asthma,13/04/2024,20,120/80,81,8,94,98,Yes,Critical
+P000208,Sneha Reddy,Male,70,"Hyderabad, Telangana",Asthma,02/09/2024,24.3,120/80,165,6.3,90,92,Yes,Critical
+P000209,Sneha Kumar,Female,26,"Chennai, Tamil Nadu",Diabetes,06/03/2023,31.7,130/85,121,8.7,95,65,No,Recovered
+P000210,Pooja Patel,Female,26,"Ahmedabad, Gujarat",Asthma,04/07/2023,27.4,118/76,86,5.6,93,91,Yes,Recovered
+P000211,Aisha Kumar,Female,40,"Surat, Gujarat",Hypertension,25/03/2025,29.5,150/95,155,8,100,78,No,Critical
+P000212,Rahul Kumar,Male,63,"Kolkata, West Bengal",Hypertension,19/08/2023,34.4,150/95,84,9,100,80,No,Recovered
+P000213,Vikram Patel,Male,45,"Mumbai, Maharashtra",Hypertension,04/09/2023,27.5,160/100,121,9.5,98,91,Yes,Under Treatment
+P000214,Rohan Patel,Male,62,"Mumbai, Maharashtra",Hypertension,04/01/2024,30.4,160/100,160,8.6,96,64,No,Critical
+P000215,Aditya Patel,Female,23,"Kolkata, West Bengal",Asthma,10/10/2025,18.8,120/80,85,9.9,95,94,Yes,Critical
+P000216,Aisha Gupta,Female,47,"Hyderabad, Telangana",Hypertension,30/05/2023,34.2,160/100,219,6.8,98,110,Yes,Critical
+P000217,Sneha Kumar,Female,53,"Kolkata, West Bengal",Diabetes,03/12/2025,29.5,130/85,190,6.2,99,82,Yes,Recovered
+P000218,Neha Singh,Male,28,"Lucknow, Uttar Pradesh",Hypertension,14/01/2024,32.7,150/95,219,10.2,100,95,Yes,Under Treatment
+P000219,Rohan Kumar,Male,34,"Bengaluru, Karnataka",Asthma,28/09/2025,19,120/80,143,9.2,93,103,Yes,Under Treatment
+P000220,Kiran Singh,Male,33,"Jaipur, Rajasthan",Asthma,20/04/2023,29.4,118/76,210,6.1,99,95,No,Under Treatment
+P000221,Aisha Kumar,Male,27,"Lucknow, Uttar Pradesh",Asthma,21/04/2023,25.9,120/80,108,6.6,92,100,No,Recovered
+P000222,Ananya Singh,Female,70,"Mumbai, Maharashtra",Asthma,09/02/2026,28.6,118/76,182,5.9,100,84,No,Under Treatment
+P000223,Rahul Patel,Male,31,"Jaipur, Rajasthan",Hypertension,03/07/2023,28.2,160/100,82,10.1,97,72,No,Critical
+P000224,Vikram Patel,Male,74,"Lucknow, Uttar Pradesh",Asthma,29/05/2023,34.5,120/80,247,8.3,91,64,No,Under Treatment
+P000225,Rahul Singh,Male,64,"Indore, Madhya Pradesh",Hypertension,10/02/2026,25.8,150/95,231,8.1,96,76,Yes,Critical
+P000226,Krishna Shah,Female,38,"Kolkata, West Bengal",Asthma,23/03/2025,27.4,118/76,159,8.8,95,68,No,Critical
+P000227,Vikram Shah,Male,34,"Hyderabad, Telangana",Asthma,13/04/2023,24.4,120/80,130,8.1,92,91,No,Recovered
+P000228,Krishna Singh,Female,76,"Ahmedabad, Gujarat",Diabetes,05/07/2023,20.8,130/85,130,8.6,100,103,No,Under Treatment
+P000229,Priya Iyer,Male,46,"Surat, Gujarat",Asthma,18/02/2024,21.4,120/80,212,5.4,95,84,Yes,Recovered
+P000230,Rahul Sharma,Female,35,"Chennai, Tamil Nadu",Asthma,12/07/2024,32.7,120/80,218,5.8,97,78,Yes,Under Treatment
+P000231,Krishna Sharma,Female,60,"Mumbai, Maharashtra",Hypertension,16/01/2024,18.7,150/95,199,6.4,97,85,No,Recovered
+P000232,Vikram Singh,Female,44,"Bengaluru, Karnataka",Hypertension,30/06/2025,24.3,160/100,83,5.9,96,90,Yes,Under Treatment
+P000233,Neha Reddy,Female,84,"Kolkata, West Bengal",Diabetes,03/07/2024,22.9,140/90,217,5.1,95,60,Yes,Recovered
+P000234,Rahul Sharma,Female,53,"Bhopal, Madhya Pradesh",Diabetes,01/05/2026,32.8,140/90,120,9.1,97,110,Yes,Critical
+P000235,Aarav Reddy,Male,18,"Bengaluru, Karnataka",Asthma,31/01/2024,35.9,120/80,187,5.2,90,64,Yes,Under Treatment
+P000236,Priya Gupta,Male,81,"Bengaluru, Karnataka",Diabetes,05/09/2024,32.6,140/90,135,10.2,100,67,Yes,Critical
+P000237,Rohan Shah,Male,82,"Bengaluru, Karnataka",Asthma,27/11/2023,31,118/76,203,8.4,94,76,Yes,Recovered
+P000238,Kiran Singh,Female,29,"Pune, Maharashtra",Asthma,22/05/2024,24,118/76,106,8.2,100,76,No,Critical
+P000239,Sneha Kumar,Male,83,"Pune, Maharashtra",Asthma,24/01/2025,30.2,118/76,209,10.4,98,89,No,Critical
+P000240,Pooja Sharma,Female,79,"Ahmedabad, Gujarat",Asthma,27/04/2026,30.9,118/76,204,7.3,98,102,No,Recovered
+P000241,Aditya Patel,Male,31,"Pune, Maharashtra",Diabetes,26/01/2023,19.3,130/85,97,8.9,100,71,No,Under Treatment
+P000242,Priya Kumar,Male,67,"Chennai, Tamil Nadu",Diabetes,14/10/2024,23,140/90,146,10.1,97,97,No,Recovered
+P000243,Neha Sharma,Male,60,"Chennai, Tamil Nadu",Asthma,19/03/2025,33.8,120/80,202,6,92,73,No,Under Treatment
+P000244,Priya Gupta,Female,36,"Lucknow, Uttar Pradesh",Diabetes,09/03/2024,35.4,130/85,247,7.9,95,81,Yes,Critical
+P000245,Aarav Reddy,Female,19,"Bengaluru, Karnataka",Hypertension,28/08/2025,25.2,160/100,239,5.9,100,97,Yes,Critical
+P000246,Vikram Sharma,Female,76,"Chennai, Tamil Nadu",Hypertension,07/01/2025,18.7,150/95,181,6.4,99,73,No,Under Treatment
+P000247,Rohan Singh,Female,40,"Ahmedabad, Gujarat",Asthma,13/04/2023,32.3,118/76,245,6,93,94,Yes,Under Treatment
+P000248,Pooja Reddy,Male,52,"Surat, Gujarat",Diabetes,02/06/2023,20.5,130/85,101,8.2,99,64,No,Recovered
+P000249,Rahul Shah,Female,28,"Ahmedabad, Gujarat",Hypertension,20/01/2025,29.7,160/100,223,5.5,97,100,No,Critical
+P000250,Meera Singh,Male,59,"Lucknow, Uttar Pradesh",Hypertension,27/11/2024,35.5,160/100,186,5.2,96,78,Yes,Critical
+P000251,Rahul Gupta,Female,21,"Ahmedabad, Gujarat",Hypertension,22/02/2023,25.9,160/100,131,7.1,97,69,No,Critical
+P000252,Krishna Singh,Female,59,"Surat, Gujarat",Asthma,11/06/2023,34.1,118/76,157,5.7,96,94,No,Recovered
+P000253,Vikram Sharma,Male,18,"Hyderabad, Telangana",Asthma,22/04/2023,28.3,120/80,188,10.2,90,73,Yes,Recovered
+P000254,Vivaan Patel,Female,54,"Jaipur, Rajasthan",Diabetes,06/11/2023,33.1,130/85,226,9.8,100,98,No,Critical
+P000255,Priya Gupta,Male,22,"Jaipur, Rajasthan",Diabetes,13/01/2024,33.9,130/85,105,10.1,98,94,No,Under Treatment
+P000256,Meera Shah,Male,49,"Kolkata, West Bengal",Diabetes,12/01/2026,21.4,140/90,242,8.3,95,108,No,Critical
+P000257,Aditya Shah,Male,37,"Chennai, Tamil Nadu",Diabetes,21/08/2023,33,140/90,195,8.3,96,110,Yes,Under Treatment
+P000258,Aarav Sharma,Female,74,"Chennai, Tamil Nadu",Asthma,08/08/2023,26.1,120/80,212,9.9,94,60,No,Critical
+P000259,Ananya Kumar,Male,76,"Jaipur, Rajasthan",Hypertension,18/08/2025,30.9,160/100,205,8.3,98,73,Yes,Under Treatment
+P000260,Pooja Shah,Female,61,"Mumbai, Maharashtra",Diabetes,14/11/2023,36,130/85,115,10,97,100,No,Under Treatment
+P000261,Aisha Singh,Female,21,"Pune, Maharashtra",Diabetes,10/02/2024,20.3,140/90,127,8.4,100,82,No,Recovered
+P000262,Rohan Patel,Male,72,"Chennai, Tamil Nadu",Hypertension,23/06/2023,19.2,150/95,191,9.3,99,110,Yes,Critical
+P000263,Ananya Shah,Female,42,"Ahmedabad, Gujarat",Hypertension,09/06/2023,28.9,160/100,244,10.3,96,80,No,Recovered
+P000264,Meera Patel,Female,53,"Ahmedabad, Gujarat",Asthma,26/04/2023,29.6,118/76,137,9.3,97,87,No,Recovered
+P000265,Aisha Gupta,Female,79,"Jaipur, Rajasthan",Diabetes,28/02/2026,19.6,140/90,207,6.9,96,94,No,Under Treatment
+P000266,Krishna Sharma,Female,49,"Mumbai, Maharashtra",Asthma,05/04/2023,20.7,120/80,143,10.1,97,84,Yes,Under Treatment
+P000267,Vivaan Iyer,Female,20,"Kolkata, West Bengal",Diabetes,14/03/2026,26.1,140/90,171,7.6,98,97,Yes,Recovered
+P000268,Pooja Shah,Male,63,"Kolkata, West Bengal",Hypertension,15/05/2025,35.4,160/100,140,5.6,96,75,No,Recovered
+P000269,Rahul Shah,Female,72,"Kolkata, West Bengal",Asthma,07/01/2026,28,120/80,108,9.8,100,108,No,Under Treatment
+P000270,Neha Gupta,Female,24,"Hyderabad, Telangana",Diabetes,21/11/2024,35.7,130/85,167,5.2,95,106,No,Recovered
+P000271,Kiran Patel,Male,80,"Kolkata, West Bengal",Diabetes,03/06/2023,23.3,140/90,127,9.8,95,60,No,Critical
+P000272,Vivaan Reddy,Male,29,"Chennai, Tamil Nadu",Asthma,19/09/2024,27.3,120/80,106,7.1,90,71,No,Critical
+P000273,Rohan Sharma,Male,34,"Kolkata, West Bengal",Asthma,15/11/2024,19.9,120/80,175,8.4,95,66,Yes,Recovered
+P000274,Vikram Sharma,Female,52,"Bhopal, Madhya Pradesh",Hypertension,24/08/2023,24.6,160/100,222,7.7,98,90,No,Critical
+P000275,Pooja Sharma,Male,32,"Ahmedabad, Gujarat",Asthma,17/02/2023,34.2,120/80,219,6.9,96,73,Yes,Under Treatment
+P000276,Vikram Iyer,Female,80,"Hyderabad, Telangana",Diabetes,24/01/2023,23.4,130/85,88,8.9,98,71,No,Critical
+P000277,Rahul Reddy,Female,70,"Mumbai, Maharashtra",Hypertension,04/10/2025,23.9,160/100,239,8.9,96,96,No,Under Treatment
+P000278,Aditya Reddy,Male,45,"Lucknow, Uttar Pradesh",Asthma,03/03/2026,32.3,120/80,149,9.7,94,69,No,Recovered
+P000279,Aditya Reddy,Male,31,"Ahmedabad, Gujarat",Hypertension,02/07/2024,18.8,160/100,169,6.2,96,66,No,Critical
+P000280,Ananya Reddy,Female,60,"Kolkata, West Bengal",Asthma,27/02/2026,28.7,120/80,99,6,98,65,Yes,Recovered
+P000281,Pooja Reddy,Female,41,"Kolkata, West Bengal",Hypertension,30/05/2024,19.8,160/100,180,5.6,99,71,No,Under Treatment
+P000282,Pooja Singh,Male,66,"Bhopal, Madhya Pradesh",Hypertension,21/11/2025,19.3,150/95,134,6.6,96,107,No,Under Treatment
+P000283,Pooja Gupta,Female,66,"Pune, Maharashtra",Asthma,23/01/2025,31.9,118/76,125,9.7,95,61,Yes,Recovered
+P000284,Vivaan Kumar,Female,83,"Lucknow, Uttar Pradesh",Asthma,14/12/2025,31.5,120/80,84,8,96,75,No,Under Treatment
+P000285,Ananya Kumar,Male,66,"Surat, Gujarat",Diabetes,07/05/2026,20.2,140/90,127,5.6,96,68,No,Recovered
+P000286,Vikram Iyer,Male,64,"Jaipur, Rajasthan",Hypertension,28/07/2025,30.9,160/100,166,6.9,97,64,No,Under Treatment
+P000287,Aisha Reddy,Male,73,"Chennai, Tamil Nadu",Asthma,09/07/2023,18.9,120/80,189,9.7,91,61,No,Recovered
+P000288,Vikram Iyer,Female,58,"Mumbai, Maharashtra",Asthma,31/08/2025,19.9,120/80,178,7.8,96,73,Yes,Critical
+P000289,Sneha Singh,Female,39,"Indore, Madhya Pradesh",Diabetes,18/06/2025,22.7,130/85,218,9.5,95,86,Yes,Critical
+P000290,Vikram Shah,Female,20,"Lucknow, Uttar Pradesh",Hypertension,09/10/2023,18.9,150/95,149,6,96,105,Yes,Recovered
+P000291,Pooja Iyer,Female,60,"Chennai, Tamil Nadu",Hypertension,11/09/2025,24.2,150/95,244,5.6,98,75,No,Critical
+P000292,Aarav Reddy,Female,80,"Pune, Maharashtra",Hypertension,17/10/2025,33.9,150/95,169,8.5,96,62,No,Recovered
+P000293,Priya Gupta,Female,38,"Kolkata, West Bengal",Asthma,22/08/2023,25.1,120/80,153,5.6,97,69,Yes,Critical
+P000294,Pooja Sharma,Male,43,"Chennai, Tamil Nadu",Hypertension,16/06/2026,18.5,160/100,150,5.7,99,108,No,Under Treatment
+P000295,Vivaan Patel,Female,18,"Indore, Madhya Pradesh",Hypertension,11/10/2025,31.1,160/100,232,5.4,97,89,No,Recovered
+P000296,Vivaan Singh,Female,31,"Chennai, Tamil Nadu",Asthma,18/01/2024,23,118/76,189,8.9,91,63,No,Recovered
+P000297,Pooja Shah,Female,79,"Mumbai, Maharashtra",Asthma,24/06/2025,28.1,118/76,225,8,95,69,No,Under Treatment
+P000298,Vivaan Gupta,Female,64,"Bhopal, Madhya Pradesh",Diabetes,14/09/2025,34.9,140/90,191,5.7,96,86,No,Under Treatment
+P000299,Priya Singh,Male,55,"Hyderabad, Telangana",Hypertension,12/07/2025,23.9,150/95,101,5.2,96,69,Yes,Recovered
+P000300,Aarav Iyer,Male,41,"Indore, Madhya Pradesh",Hypertension,24/01/2025,24.9,160/100,91,5.1,97,71,Yes,Recovered
+P000301,Sneha Reddy,Male,51,"Pune, Maharashtra",Diabetes,08/11/2025,25.4,140/90,183,7.6,95,72,No,Under Treatment
+P000302,Vikram Singh,Male,83,"Jaipur, Rajasthan",Asthma,01/10/2023,19.7,118/76,197,5.1,93,101,Yes,Recovered
+P000303,Krishna Shah,Male,22,"Mumbai, Maharashtra",Diabetes,31/08/2023,32.1,130/85,216,9,99,64,Yes,Under Treatment
+P000304,Rohan Patel,Male,55,"Kolkata, West Bengal",Diabetes,11/12/2024,20.1,140/90,221,10.1,95,96,Yes,Under Treatment
+P000305,Rahul Gupta,Female,41,"Jaipur, Rajasthan",Diabetes,28/08/2024,26.2,130/85,159,9.3,98,104,No,Recovered
+P000306,Sneha Gupta,Female,69,"Pune, Maharashtra",Hypertension,29/10/2024,21,160/100,110,9.4,100,104,No,Recovered
+P000307,Ananya Singh,Male,44,"Kolkata, West Bengal",Diabetes,15/07/2023,34.4,140/90,207,8,100,77,No,Recovered
+P000308,Priya Kumar,Female,57,"Bengaluru, Karnataka",Diabetes,25/01/2026,25.3,130/85,228,9.7,99,81,No,Critical
+P000309,Kiran Shah,Male,33,"Hyderabad, Telangana",Diabetes,16/07/2024,32.9,140/90,146,6,99,98,Yes,Under Treatment
+P000310,Aditya Sharma,Female,30,"Hyderabad, Telangana",Asthma,31/12/2023,22.7,120/80,86,7.3,90,97,No,Under Treatment
+P000311,Aarav Shah,Male,64,"Jaipur, Rajasthan",Diabetes,21/03/2025,20.5,130/85,168,7.9,95,106,No,Critical
+P000312,Meera Singh,Female,40,"Hyderabad, Telangana",Diabetes,03/03/2023,30.5,130/85,157,6.5,98,66,Yes,Critical
+P000313,Neha Iyer,Male,62,"Bengaluru, Karnataka",Hypertension,22/05/2026,22.2,150/95,240,8.8,98,102,Yes,Recovered
+P000314,Sneha Singh,Male,35,"Kolkata, West Bengal",Hypertension,20/02/2025,31.7,160/100,210,9.7,100,72,No,Recovered
+P000315,Vikram Iyer,Male,20,"Bengaluru, Karnataka",Diabetes,06/09/2024,36,130/85,163,8.5,97,89,No,Under Treatment
+P000316,Pooja Singh,Female,85,"Chennai, Tamil Nadu",Asthma,04/11/2025,30.7,118/76,170,8.1,99,96,Yes,Recovered
+P000317,Aditya Kumar,Male,72,"Ahmedabad, Gujarat",Diabetes,11/03/2025,24.4,130/85,180,9.5,99,104,Yes,Recovered
+P000318,Priya Reddy,Male,41,"Chennai, Tamil Nadu",Hypertension,07/10/2023,20.1,160/100,177,6.3,95,95,No,Recovered
+P000319,Aarav Sharma,Male,76,"Surat, Gujarat",Hypertension,07/11/2023,34.2,160/100,156,9.1,98,76,Yes,Under Treatment
+P000320,Priya Patel,Female,44,"Chennai, Tamil Nadu",Asthma,08/06/2023,18.6,118/76,219,6.9,98,71,No,Recovered
+P000321,Aisha Singh,Female,18,"Bengaluru, Karnataka",Hypertension,31/01/2025,30.6,150/95,153,8.7,95,65,No,Under Treatment
+P000322,Aisha Patel,Female,72,"Chennai, Tamil Nadu",Diabetes,01/03/2026,28.6,140/90,247,8.7,96,61,Yes,Under Treatment
+P000323,Vivaan Reddy,Male,80,"Indore, Madhya Pradesh",Diabetes,16/07/2023,24,130/85,136,7.2,98,75,Yes,Under Treatment
+P000324,Rohan Patel,Male,63,"Bengaluru, Karnataka",Hypertension,09/04/2023,27.3,150/95,103,10,100,96,Yes,Under Treatment
+P000325,Pooja Sharma,Male,27,"Indore, Madhya Pradesh",Hypertension,19/02/2024,31.4,160/100,149,9.2,100,104,Yes,Under Treatment
+P000326,Sneha Gupta,Male,76,"Mumbai, Maharashtra",Hypertension,04/03/2026,20.2,160/100,214,8.7,95,74,No,Under Treatment
+P000327,Aisha Iyer,Male,45,"Jaipur, Rajasthan",Diabetes,30/03/2025,25,130/85,111,7.6,95,89,No,Under Treatment
+P000328,Vikram Singh,Female,63,"Kolkata, West Bengal",Asthma,08/11/2025,35.9,118/76,94,9.4,98,76,No,Critical
+P000329,Aditya Shah,Male,78,"Ahmedabad, Gujarat",Diabetes,17/03/2025,26.2,130/85,96,10.2,99,110,No,Recovered
+P000330,Vikram Shah,Male,39,"Surat, Gujarat",Hypertension,25/05/2025,19.2,160/100,129,5.5,97,75,No,Recovered
+P000331,Pooja Gupta,Male,28,"Hyderabad, Telangana",Asthma,27/07/2025,20.7,120/80,121,8.1,95,81,No,Under Treatment
+P000332,Rahul Singh,Female,73,"Chennai, Tamil Nadu",Diabetes,16/03/2026,26.6,140/90,164,8.9,99,91,No,Critical
+P000333,Pooja Gupta,Female,50,"Surat, Gujarat",Hypertension,29/07/2024,21.3,150/95,148,5.9,95,85,No,Under Treatment
+P000334,Aisha Sharma,Female,38,"Surat, Gujarat",Asthma,05/08/2023,29.3,118/76,114,7.5,91,61,Yes,Critical
+P000335,Neha Patel,Male,70,"Bengaluru, Karnataka",Asthma,18/05/2024,20.8,120/80,159,9.8,100,87,No,Under Treatment
+P000336,Aditya Patel,Female,74,"Mumbai, Maharashtra",Diabetes,18/10/2025,29.9,130/85,84,8.5,100,88,No,Critical
+P000337,Rohan Reddy,Male,60,"Ahmedabad, Gujarat",Diabetes,06/03/2025,32.6,130/85,203,7.5,99,68,No,Recovered
+P000338,Neha Singh,Male,50,"Ahmedabad, Gujarat",Diabetes,14/11/2025,22.5,140/90,209,8.8,96,67,Yes,Critical
+P000339,Neha Singh,Male,67,"Bengaluru, Karnataka",Diabetes,11/12/2025,23.1,130/85,220,5.8,100,88,No,Under Treatment
+P000340,Rahul Reddy,Male,68,"Lucknow, Uttar Pradesh",Asthma,06/05/2024,35.3,120/80,228,7,95,60,Yes,Critical
+P000341,Aisha Shah,Male,34,"Hyderabad, Telangana",Hypertension,06/02/2023,31.2,160/100,122,5,96,91,Yes,Under Treatment
+P000342,Vikram Patel,Male,57,"Surat, Gujarat",Hypertension,23/04/2026,27.2,160/100,192,8.6,97,65,No,Critical
+P000343,Ananya Kumar,Male,63,"Chennai, Tamil Nadu",Hypertension,02/03/2024,30.3,160/100,159,6.1,100,94,Yes,Critical
+P000344,Krishna Sharma,Female,30,"Jaipur, Rajasthan",Asthma,27/03/2024,19.7,118/76,238,5.7,94,99,No,Under Treatment
+P000345,Aarav Sharma,Female,68,"Jaipur, Rajasthan",Hypertension,28/12/2024,18.6,150/95,223,8.8,97,105,Yes,Recovered
+P000346,Aarav Sharma,Female,69,"Surat, Gujarat",Diabetes,02/04/2025,27.7,140/90,226,9.2,98,103,Yes,Critical
+P000347,Rahul Patel,Female,53,"Bhopal, Madhya Pradesh",Diabetes,07/06/2023,32.1,130/85,155,8.9,95,100,No,Recovered
+P000348,Meera Sharma,Male,51,"Kolkata, West Bengal",Asthma,16/07/2023,19.2,120/80,245,6.8,94,61,No,Critical
+P000349,Neha Shah,Male,62,"Bhopal, Madhya Pradesh",Hypertension,13/11/2025,31.1,150/95,210,10.2,97,81,Yes,Under Treatment
+P000350,Vivaan Kumar,Male,76,"Kolkata, West Bengal",Asthma,19/01/2024,32.9,118/76,94,9.8,93,91,Yes,Recovered
+P000351,Krishna Singh,Male,33,"Pune, Maharashtra",Asthma,08/02/2026,19.4,118/76,122,10,99,95,Yes,Recovered
+P000352,Pooja Sharma,Female,43,"Hyderabad, Telangana",Hypertension,27/02/2024,28,160/100,207,6.2,97,79,Yes,Critical
+P000353,Kiran Patel,Female,50,"Mumbai, Maharashtra",Hypertension,11/04/2026,31.2,150/95,239,8.1,95,66,No,Critical
+P000354,Pooja Reddy,Female,19,"Kolkata, West Bengal",Hypertension,27/01/2024,25.8,150/95,143,5.3,98,75,Yes,Recovered
+P000355,Aditya Patel,Male,69,"Jaipur, Rajasthan",Asthma,08/08/2024,19.2,120/80,220,8.8,98,79,Yes,Critical
+P000356,Pooja Iyer,Male,41,"Bengaluru, Karnataka",Asthma,05/11/2023,24.6,120/80,81,9.6,99,84,No,Recovered
+P000357,Meera Gupta,Male,53,"Ahmedabad, Gujarat",Asthma,28/02/2023,30.6,118/76,140,5.8,93,69,Yes,Critical
+P000358,Vivaan Sharma,Male,77,"Pune, Maharashtra",Asthma,17/10/2024,25.3,118/76,174,7.1,90,77,Yes,Under Treatment
+P000359,Vikram Kumar,Male,27,"Lucknow, Uttar Pradesh",Hypertension,06/09/2024,18.5,150/95,231,5,97,68,Yes,Critical
+P000360,Sneha Kumar,Male,47,"Chennai, Tamil Nadu",Diabetes,16/06/2026,25.7,130/85,150,5.9,96,64,Yes,Under Treatment
+P000361,Aditya Iyer,Male,47,"Surat, Gujarat",Diabetes,12/05/2023,24.6,140/90,231,8,96,103,Yes,Critical
+P000362,Kiran Kumar,Female,64,"Chennai, Tamil Nadu",Hypertension,25/12/2024,26.3,160/100,178,5.3,96,79,No,Recovered
+P000363,Aditya Iyer,Male,74,"Ahmedabad, Gujarat",Hypertension,08/06/2024,18.2,150/95,239,10,95,97,Yes,Under Treatment
+P000364,Meera Gupta,Female,55,"Bengaluru, Karnataka",Asthma,14/07/2023,29.4,118/76,82,7.3,100,87,Yes,Recovered
+P000365,Rahul Iyer,Female,42,"Indore, Madhya Pradesh",Hypertension,02/01/2025,31.2,150/95,151,5.4,97,75,Yes,Recovered
+P000366,Kiran Patel,Male,58,"Jaipur, Rajasthan",Hypertension,13/03/2026,35.7,150/95,104,9.2,98,80,No,Critical
+P000367,Krishna Singh,Male,21,"Bengaluru, Karnataka",Hypertension,05/02/2024,34.1,160/100,224,5.7,97,90,Yes,Critical
+P000368,Sneha Singh,Male,41,"Lucknow, Uttar Pradesh",Diabetes,19/09/2025,18.9,130/85,114,7.3,96,88,Yes,Under Treatment
+P000369,Ananya Patel,Female,29,"Ahmedabad, Gujarat",Hypertension,15/09/2024,21.9,160/100,98,9.5,95,97,No,Under Treatment
+P000370,Krishna Iyer,Female,57,"Pune, Maharashtra",Diabetes,10/02/2024,18.5,130/85,208,9.7,99,75,Yes,Under Treatment
+P000371,Neha Singh,Male,33,"Ahmedabad, Gujarat",Diabetes,19/02/2026,21.4,130/85,83,5.4,100,64,Yes,Under Treatment
+P000372,Vikram Gupta,Male,40,"Hyderabad, Telangana",Asthma,08/03/2023,24.9,118/76,100,9.4,100,104,No,Critical
+P000373,Ananya Shah,Male,60,"Bengaluru, Karnataka",Diabetes,13/10/2024,25.8,130/85,93,5.7,100,68,Yes,Recovered
+P000374,Sneha Reddy,Female,45,"Hyderabad, Telangana",Hypertension,04/11/2024,35.5,150/95,184,5.5,97,64,Yes,Under Treatment
+P000375,Meera Singh,Female,80,"Jaipur, Rajasthan",Diabetes,06/01/2024,30.3,130/85,140,8.6,100,99,No,Critical
+P000376,Neha Iyer,Male,22,"Kolkata, West Bengal",Hypertension,03/08/2024,32.1,150/95,115,7.2,98,62,Yes,Under Treatment
+P000377,Aisha Sharma,Male,50,"Hyderabad, Telangana",Hypertension,29/07/2024,19,160/100,146,9.2,95,63,Yes,Under Treatment
+P000378,Ananya Singh,Female,57,"Surat, Gujarat",Asthma,23/02/2026,18.1,118/76,130,10.2,100,67,Yes,Under Treatment
+P000379,Aditya Gupta,Male,62,"Surat, Gujarat",Diabetes,16/04/2026,19.9,130/85,106,9.5,95,64,Yes,Under Treatment
+P000380,Meera Gupta,Female,69,"Hyderabad, Telangana",Diabetes,15/12/2024,20.2,140/90,200,5.8,100,71,Yes,Recovered
+P000381,Meera Iyer,Male,29,"Lucknow, Uttar Pradesh",Asthma,12/03/2026,27.3,118/76,219,9.3,90,70,Yes,Under Treatment
+P000382,Aisha Gupta,Female,70,"Bhopal, Madhya Pradesh",Hypertension,16/03/2025,30.8,160/100,195,5.8,100,106,Yes,Recovered
+P000383,Ananya Patel,Female,40,"Pune, Maharashtra",Asthma,01/07/2024,25.9,120/80,99,5.8,93,106,No,Critical
+P000384,Rohan Gupta,Female,83,"Lucknow, Uttar Pradesh",Asthma,22/04/2023,29,120/80,202,9.7,93,78,Yes,Critical
+P000385,Pooja Patel,Female,30,"Mumbai, Maharashtra",Asthma,26/09/2024,36,120/80,181,9.1,97,76,No,Critical
+P000386,Priya Patel,Female,73,"Chennai, Tamil Nadu",Hypertension,04/05/2024,20.3,150/95,148,5.2,100,109,Yes,Critical
+P000387,Ananya Shah,Female,71,"Mumbai, Maharashtra",Hypertension,18/08/2024,26.1,160/100,159,7.1,96,89,Yes,Under Treatment
+P000388,Rahul Sharma,Male,22,"Chennai, Tamil Nadu",Diabetes,19/06/2026,22.9,140/90,155,8.2,100,76,Yes,Critical
+P000389,Vikram Shah,Male,26,"Pune, Maharashtra",Hypertension,12/12/2023,28,150/95,165,9.5,96,71,No,Recovered
+P000390,Aarav Reddy,Female,37,"Bengaluru, Karnataka",Diabetes,14/10/2025,26.3,130/85,213,8.4,99,84,No,Recovered
+P000391,Meera Kumar,Male,36,"Pune, Maharashtra",Asthma,13/05/2024,34.7,120/80,206,7.4,92,77,Yes,Under Treatment
+P000392,Aditya Shah,Female,50,"Bhopal, Madhya Pradesh",Asthma,15/04/2026,23.5,120/80,106,7.3,95,78,Yes,Recovered
+P000393,Aditya Singh,Male,47,"Bengaluru, Karnataka",Hypertension,12/09/2023,30.8,160/100,201,6.1,98,71,Yes,Recovered
+P000394,Rohan Patel,Female,70,"Kolkata, West Bengal",Diabetes,21/06/2024,32.4,130/85,199,6.1,99,108,No,Critical
+P000395,Neha Singh,Male,54,"Mumbai, Maharashtra",Asthma,11/05/2023,33.9,118/76,159,5.2,90,65,No,Critical
+P000396,Neha Gupta,Female,85,"Indore, Madhya Pradesh",Diabetes,25/12/2025,25,130/85,115,6.7,98,83,Yes,Critical
+P000397,Ananya Shah,Male,83,"Lucknow, Uttar Pradesh",Hypertension,27/04/2025,27.5,150/95,217,9.1,95,83,No,Under Treatment
+P000398,Meera Patel,Female,70,"Bhopal, Madhya Pradesh",Hypertension,25/02/2024,32,150/95,131,8.7,97,81,Yes,Under Treatment
+P000399,Aarav Iyer,Male,23,"Jaipur, Rajasthan",Asthma,29/10/2025,31.3,118/76,112,5.4,90,72,No,Under Treatment
+P000400,Aditya Patel,Female,20,"Mumbai, Maharashtra",Hypertension,03/02/2025,34.2,160/100,135,7,95,62,No,Critical
+P000401,Krishna Sharma,Female,44,"Lucknow, Uttar Pradesh",Asthma,04/12/2023,30.9,120/80,233,6.8,93,108,Yes,Recovered
+P000402,Vivaan Sharma,Female,40,"Kolkata, West Bengal",Hypertension,21/10/2025,21.7,150/95,238,9,96,85,Yes,Recovered
+P000403,Aisha Singh,Female,32,"Surat, Gujarat",Hypertension,17/10/2025,29.7,160/100,135,5.3,96,105,No,Critical
+P000404,Rohan Shah,Male,22,"Ahmedabad, Gujarat",Hypertension,08/08/2023,18.2,160/100,102,5.3,95,78,Yes,Critical
+P000405,Ananya Iyer,Female,80,"Hyderabad, Telangana",Asthma,10/09/2025,19.1,120/80,85,7.1,90,87,Yes,Critical
+P000406,Krishna Reddy,Female,70,"Indore, Madhya Pradesh",Asthma,22/06/2023,35.8,118/76,82,5.4,96,63,Yes,Recovered
+P000407,Aarav Iyer,Female,40,"Bhopal, Madhya Pradesh",Asthma,08/10/2023,20.5,120/80,173,7.6,97,105,Yes,Under Treatment
+P000408,Pooja Sharma,Female,23,"Lucknow, Uttar Pradesh",Asthma,07/10/2025,35.4,120/80,147,6.9,91,75,Yes,Critical
+P000409,Aarav Kumar,Male,73,"Kolkata, West Bengal",Hypertension,25/10/2023,26,160/100,202,8.3,98,78,No,Recovered
+P000410,Vivaan Shah,Female,63,"Surat, Gujarat",Asthma,12/06/2024,28,120/80,177,8.3,98,97,Yes,Recovered
+P000411,Vikram Singh,Male,22,"Bengaluru, Karnataka",Asthma,15/02/2026,23.1,118/76,135,6.4,90,88,Yes,Critical
+P000412,Neha Gupta,Female,25,"Ahmedabad, Gujarat",Asthma,27/01/2026,32.2,120/80,175,7.6,93,72,No,Recovered
+P000413,Rohan Singh,Female,24,"Surat, Gujarat",Asthma,19/01/2023,32.9,120/80,123,9.7,96,109,Yes,Recovered
+P000414,Priya Shah,Male,33,"Kolkata, West Bengal",Asthma,23/12/2025,25.8,120/80,123,9,96,86,Yes,Critical
+P000415,Kiran Kumar,Female,82,"Bhopal, Madhya Pradesh",Asthma,29/07/2024,35.6,118/76,180,9.8,90,82,No,Critical
+P000416,Priya Kumar,Male,20,"Bhopal, Madhya Pradesh",Diabetes,12/01/2025,24.4,130/85,230,7.8,95,97,No,Critical
+P000417,Pooja Gupta,Male,71,"Mumbai, Maharashtra",Hypertension,31/08/2024,26,160/100,102,9.6,99,87,No,Under Treatment
+P000418,Aditya Iyer,Male,18,"Mumbai, Maharashtra",Hypertension,13/02/2025,21.2,150/95,161,8.7,99,94,Yes,Critical
+P000419,Krishna Singh,Male,30,"Ahmedabad, Gujarat",Hypertension,27/03/2025,19.5,150/95,102,8.1,99,65,Yes,Critical
+P000420,Kiran Sharma,Male,24,"Kolkata, West Bengal",Diabetes,16/02/2026,20.3,140/90,223,7.1,100,65,Yes,Critical
+P000421,Krishna Patel,Female,47,"Lucknow, Uttar Pradesh",Hypertension,18/01/2026,23.5,160/100,165,10.5,96,87,No,Recovered
+P000422,Neha Sharma,Male,33,"Indore, Madhya Pradesh",Hypertension,11/02/2023,35.8,150/95,166,6.1,99,98,No,Recovered
+P000423,Priya Singh,Female,76,"Jaipur, Rajasthan",Diabetes,05/09/2023,31.5,140/90,104,6.1,100,110,Yes,Critical
+P000424,Vivaan Shah,Male,61,"Jaipur, Rajasthan",Diabetes,09/03/2026,32,130/85,162,6.4,95,64,Yes,Critical
+P000425,Vikram Iyer,Male,60,"Lucknow, Uttar Pradesh",Asthma,20/08/2023,21.5,120/80,131,9.5,90,101,No,Critical
+P000426,Rahul Gupta,Female,18,"Bhopal, Madhya Pradesh",Hypertension,04/01/2025,27.8,150/95,80,8.8,98,88,No,Recovered
+P000427,Vivaan Reddy,Male,75,"Surat, Gujarat",Hypertension,30/10/2025,27.6,160/100,212,8.4,97,82,Yes,Critical
+P000428,Krishna Patel,Male,52,"Hyderabad, Telangana",Diabetes,25/04/2024,28.8,140/90,183,9.4,97,74,No,Critical
+P000429,Meera Gupta,Female,65,"Indore, Madhya Pradesh",Diabetes,10/03/2026,29,130/85,215,7.8,99,100,No,Recovered
+P000430,Neha Singh,Female,60,"Indore, Madhya Pradesh",Asthma,31/10/2024,27.5,120/80,182,9.5,98,92,No,Critical
+P000431,Rohan Kumar,Male,71,"Chennai, Tamil Nadu",Diabetes,09/10/2023,33.1,130/85,204,9.2,97,75,Yes,Critical
+P000432,Pooja Reddy,Male,73,"Bengaluru, Karnataka",Asthma,29/04/2025,19.2,120/80,118,6.9,91,76,No,Critical
+P000433,Krishna Sharma,Male,60,"Lucknow, Uttar Pradesh",Hypertension,30/07/2024,25.6,150/95,105,9.9,99,92,Yes,Critical
+P000434,Vikram Singh,Male,79,"Surat, Gujarat",Asthma,19/04/2026,19.8,120/80,162,9.2,95,76,Yes,Critical
+P000435,Neha Gupta,Female,71,"Pune, Maharashtra",Hypertension,05/11/2025,20.3,150/95,112,5.9,100,61,Yes,Under Treatment
+P000436,Aditya Shah,Male,63,"Hyderabad, Telangana",Asthma,02/06/2024,26.5,118/76,167,5.8,100,94,No,Recovered
+P000437,Vikram Sharma,Female,71,"Surat, Gujarat",Hypertension,08/09/2024,24.5,160/100,141,6.4,99,77,Yes,Recovered
+P000438,Vikram Iyer,Male,32,"Pune, Maharashtra",Diabetes,03/01/2026,31.8,140/90,180,7.1,97,96,Yes,Recovered
+P000439,Ananya Gupta,Female,47,"Surat, Gujarat",Asthma,02/07/2024,32.3,120/80,121,10,98,65,No,Recovered
+P000440,Kiran Gupta,Male,30,"Chennai, Tamil Nadu",Diabetes,22/04/2025,35.1,140/90,179,5.1,100,61,No,Recovered
+P000441,Pooja Reddy,Female,81,"Pune, Maharashtra",Diabetes,11/12/2025,21.2,140/90,189,8.3,97,75,Yes,Critical
+P000442,Meera Sharma,Female,24,"Pune, Maharashtra",Diabetes,16/07/2024,30.4,140/90,249,7,96,61,Yes,Under Treatment
+P000443,Aditya Gupta,Female,27,"Lucknow, Uttar Pradesh",Diabetes,09/11/2024,31,140/90,228,8.3,99,99,No,Recovered
+P000444,Neha Sharma,Male,64,"Jaipur, Rajasthan",Diabetes,23/05/2023,24.6,140/90,103,5.1,100,65,Yes,Recovered
+P000445,Kiran Gupta,Male,47,"Chennai, Tamil Nadu",Hypertension,23/02/2024,35,160/100,132,5.1,95,71,No,Under Treatment
+P000446,Priya Singh,Female,27,"Bhopal, Madhya Pradesh",Diabetes,21/04/2023,23.5,130/85,100,7.9,96,67,No,Critical
+P000447,Priya Patel,Male,65,"Jaipur, Rajasthan",Diabetes,07/08/2025,30.3,130/85,193,8.2,100,96,No,Under Treatment
+P000448,Kiran Kumar,Male,71,"Mumbai, Maharashtra",Hypertension,12/05/2025,23.5,160/100,90,6.6,95,70,No,Under Treatment
+P000449,Rahul Sharma,Female,56,"Bengaluru, Karnataka",Diabetes,01/06/2025,19.5,130/85,222,5.7,98,61,Yes,Recovered
+P000450,Kiran Sharma,Male,61,"Kolkata, West Bengal",Asthma,21/09/2025,31.2,118/76,249,8.7,93,109,Yes,Critical
+P000451,Ananya Patel,Male,63,"Chennai, Tamil Nadu",Asthma,23/01/2023,29.6,118/76,212,8.3,95,77,No,Critical
+P000452,Ananya Sharma,Male,66,"Surat, Gujarat",Hypertension,01/11/2024,28.4,150/95,110,7.5,98,86,No,Critical
+P000453,Krishna Singh,Female,44,"Pune, Maharashtra",Diabetes,23/02/2024,18.5,140/90,234,8,98,62,Yes,Recovered
+P000454,Ananya Shah,Male,64,"Jaipur, Rajasthan",Hypertension,10/03/2025,31.8,160/100,153,9.9,97,77,Yes,Recovered
+P000455,Rahul Shah,Female,43,"Hyderabad, Telangana",Asthma,07/03/2023,34.2,118/76,145,8,91,110,Yes,Recovered
+P000456,Sneha Singh,Male,68,"Kolkata, West Bengal",Hypertension,11/03/2025,35.5,150/95,89,8.7,97,108,No,Critical
+P000457,Kiran Gupta,Female,31,"Hyderabad, Telangana",Hypertension,13/11/2025,25.7,160/100,201,7.9,97,95,No,Critical
+P000458,Kiran Reddy,Male,30,"Surat, Gujarat",Diabetes,06/04/2026,34,130/85,241,5.6,97,63,No,Critical
+P000459,Sneha Patel,Male,75,"Bhopal, Madhya Pradesh",Diabetes,30/04/2025,33.3,140/90,159,7,96,68,Yes,Under Treatment
+P000460,Priya Reddy,Male,49,"Lucknow, Uttar Pradesh",Diabetes,26/08/2025,18.4,130/85,238,7.4,100,100,No,Under Treatment
+P000461,Pooja Patel,Female,73,"Mumbai, Maharashtra",Diabetes,03/06/2024,32.4,130/85,87,8.5,96,62,No,Critical
+P000462,Aarav Kumar,Male,27,"Hyderabad, Telangana",Hypertension,18/03/2026,32,160/100,84,7.1,97,60,No,Under Treatment
+P000463,Aarav Kumar,Female,29,"Jaipur, Rajasthan",Diabetes,26/09/2025,30.9,130/85,189,6.9,97,96,No,Recovered
+P000464,Aarav Iyer,Male,50,"Ahmedabad, Gujarat",Asthma,20/11/2025,27.4,120/80,121,7.4,93,71,No,Under Treatment
+P000465,Aarav Reddy,Female,36,"Bengaluru, Karnataka",Diabetes,25/02/2023,26.8,140/90,213,5.5,95,107,Yes,Recovered
+P000466,Sneha Singh,Male,19,"Lucknow, Uttar Pradesh",Diabetes,25/09/2024,29.1,130/85,196,8.6,98,87,No,Under Treatment
+P000467,Neha Kumar,Female,42,"Indore, Madhya Pradesh",Hypertension,11/07/2024,23.3,150/95,194,6.7,97,80,No,Under Treatment
+P000468,Kiran Iyer,Male,82,"Ahmedabad, Gujarat",Hypertension,25/02/2025,31.9,150/95,228,5.7,100,76,Yes,Critical
+P000469,Meera Iyer,Female,29,"Jaipur, Rajasthan",Hypertension,25/05/2024,18.2,160/100,135,10.4,100,104,No,Recovered
+P000470,Pooja Sharma,Male,66,"Bhopal, Madhya Pradesh",Diabetes,15/06/2026,30.6,140/90,143,7.8,96,68,No,Critical
+P000471,Pooja Reddy,Male,68,"Jaipur, Rajasthan",Asthma,04/04/2023,22.7,118/76,147,9.3,99,74,Yes,Recovered
+P000472,Vivaan Gupta,Male,43,"Chennai, Tamil Nadu",Diabetes,28/03/2026,18.5,140/90,229,5.6,99,110,Yes,Critical
+P000473,Priya Kumar,Male,48,"Chennai, Tamil Nadu",Asthma,28/10/2024,20.5,118/76,198,7.6,94,97,No,Under Treatment
+P000474,Priya Sharma,Female,26,"Bengaluru, Karnataka",Asthma,17/07/2024,21.2,120/80,148,7.6,99,69,Yes,Under Treatment
+P000475,Aarav Sharma,Female,46,"Chennai, Tamil Nadu",Diabetes,30/01/2026,35.8,140/90,87,9.5,96,67,Yes,Recovered
+P000476,Priya Gupta,Male,67,"Bhopal, Madhya Pradesh",Diabetes,18/11/2025,30.7,130/85,242,9.5,98,62,Yes,Critical
+P000477,Vivaan Iyer,Female,35,"Mumbai, Maharashtra",Hypertension,13/12/2025,19.5,160/100,149,10.4,97,62,No,Under Treatment
+P000478,Kiran Reddy,Female,83,"Pune, Maharashtra",Asthma,07/02/2026,35.6,120/80,93,5.9,96,65,Yes,Under Treatment
+P000479,Sneha Patel,Male,39,"Ahmedabad, Gujarat",Diabetes,09/03/2023,23.3,130/85,248,8.4,97,83,No,Critical
+P000480,Rohan Iyer,Female,57,"Kolkata, West Bengal",Asthma,13/11/2025,30.7,120/80,167,5.7,95,85,No,Critical
+P000481,Sneha Shah,Male,28,"Surat, Gujarat",Hypertension,19/06/2024,30.3,150/95,125,9.4,100,73,Yes,Recovered
+P000482,Krishna Iyer,Male,42,"Chennai, Tamil Nadu",Asthma,01/04/2023,20,118/76,174,9.8,100,106,No,Under Treatment
+P000483,Aditya Gupta,Male,69,"Ahmedabad, Gujarat",Asthma,02/02/2026,30.8,120/80,171,8.2,100,96,Yes,Recovered
+P000484,Neha Singh,Female,30,"Ahmedabad, Gujarat",Diabetes,18/01/2025,23.3,130/85,186,6.6,98,64,Yes,Critical
+P000485,Kiran Reddy,Male,33,"Surat, Gujarat",Hypertension,04/11/2024,27,160/100,94,9.1,98,69,No,Recovered
+P000486,Vikram Gupta,Male,33,"Mumbai, Maharashtra",Hypertension,13/08/2023,27.2,160/100,163,9.5,96,91,Yes,Recovered
+P000487,Aisha Patel,Male,26,"Surat, Gujarat",Diabetes,31/10/2023,23.7,140/90,175,9.2,97,100,Yes,Critical
+P000488,Vikram Singh,Female,39,"Chennai, Tamil Nadu",Hypertension,07/02/2025,29.8,160/100,109,5.1,99,108,Yes,Critical
+P000489,Krishna Patel,Male,66,"Surat, Gujarat",Diabetes,11/12/2024,25.7,140/90,171,8.3,100,66,No,Recovered
+P000490,Vikram Kumar,Male,19,"Bengaluru, Karnataka",Asthma,08/05/2023,27.7,120/80,218,9.3,93,73,No,Critical
+P000491,Rohan Reddy,Female,47,"Lucknow, Uttar Pradesh",Diabetes,15/11/2024,22.8,130/85,106,6.3,100,88,Yes,Critical
+P000492,Aarav Gupta,Female,54,"Chennai, Tamil Nadu",Diabetes,23/11/2024,23.2,140/90,84,7.2,99,83,No,Under Treatment
+P000493,Kiran Iyer,Male,80,"Hyderabad, Telangana",Asthma,02/04/2025,31.6,120/80,167,7.8,94,93,Yes,Critical
+P000494,Kiran Sharma,Female,75,"Ahmedabad, Gujarat",Hypertension,11/01/2026,27.9,160/100,164,7.9,99,65,Yes,Critical
+P000495,Aarav Singh,Female,28,"Kolkata, West Bengal",Hypertension,17/05/2023,25.3,160/100,187,8.5,95,92,Yes,Critical
+P000496,Aisha Shah,Male,27,"Jaipur, Rajasthan",Diabetes,12/03/2024,27.1,140/90,112,9.3,97,63,Yes,Recovered
+P000497,Krishna Singh,Female,44,"Indore, Madhya Pradesh",Asthma,13/09/2023,19.1,118/76,231,7,98,87,Yes,Under Treatment
+P000498,Aisha Singh,Male,41,"Chennai, Tamil Nadu",Hypertension,02/10/2024,23,160/100,244,6.1,95,86,Yes,Recovered
+P000499,Krishna Gupta,Female,85,"Bengaluru, Karnataka",Diabetes,05/10/2025,33.8,130/85,223,9.2,95,69,No,Critical
+P000500,Sneha Sharma,Male,70,"Ahmedabad, Gujarat",Hypertension,08/05/2023,19.7,150/95,195,6.5,98,62,No,Critical
+P000501,Neha Patel,Female,68,"Lucknow, Uttar Pradesh",Hypertension,04/06/2024,33.6,160/100,162,6.1,96,80,Yes,Recovered
